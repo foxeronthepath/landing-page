@@ -22,13 +22,13 @@
     height: 250px;
     min-width: 350px;
 }
-.title {
+.banner-text .title {
     font-size: 50px;
     font-weight: bold;
     color: white;
 }
 
-.subtitle {
+.banner-text .subtitle {
     font-size: 20px;
     color: rgb(200, 200, 200);
 }

@@ -1,0 +1,45 @@
+.first-section {
+  background-color: #ffffff;
+}
+
+.first-section .title {
+  margin: 65px 0px;
+  font-size: 35px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.first-section .inner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 55px;
+  margin-inline: auto;  
+}
+
+.bigger-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 188px;
+  margin-bottom: 150px;
+}
+
+.bigger-box .box {
+  height: 150px;
+  border: 4px solid #0084ff;
+  border-radius: 12px;
+  height: 180px;
+  width: 180px;
+  flex-shrink: 0;
+  margin-bottom: 10px;
+}
+
+.first-section p {
+  text-align: center;
+  color: #696969;
+  padding: 0;
+  margin: 0;
+  font-size: 20px;
+}
